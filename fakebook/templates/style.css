@@ -1,0 +1,83 @@
+/* Ta del kode je za celo stran */
+
+body {
+    font-family: Tahoma, sans-serif;
+    background-image: url("http://saveotic.com/images/2017/01/21/kbOCg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #6d84b4;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+#profilna {
+    width: auto;
+    height: 320px;
+    border: 2px solid #ffffff;
+}
+
+
+/* Search */
+
+input {
+    width: 160px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+
+/* Button */
+
+button {
+    width: 200px;
+    height: 25px;
+    border-radius: 2px;
+}
+
+
+/*To je za seznam prijateljev*/
+
+
+/* ta koda odstrani bulletpoints*/
+
+ol, ul {
+    list-style: none;
+}
+
+tbody tr td a img {
+    width: 150px;
+    height: 150px;
+}
+
+table td {
+    border: 2px solid #ffffff;
+}
+
+
+/*centriranje tabele na sredino*/
+
+#tabela {
+    margin: 0 auto;
+}
+
+a img {
+    width: 100px;
+    height: 100px;
+}
+
+img:hover {
+    border: 2px solid #ffffff;
+}
+
+iframe {
+    border-radius: 5px;
+}
+
+p {
+    font-weight: bold;
+    font-size: 120%;
+}
